@@ -15,6 +15,6 @@ export default {
     font-size: 2.5rem;
     padding: 20px 0;
     color: white;
-    text-shadow: 2px 2px 5px royalblue;
+    text-shadow: 2px 2px 5px darkblue;
 }
 </style>

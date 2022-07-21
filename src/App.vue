@@ -28,13 +28,12 @@ export default {
 }
 
 body {
-  height: 100vh;
   text-align: center;
   font-family: sans-serif;
 }
 
 header {
   background-image: radial-gradient(white 10%, red 40%, cornflowerblue);
-  box-shadow: 2px 2px 5px gray;
+  box-shadow: 2px 2px 5px dimgray;
 }
 </style>
